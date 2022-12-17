@@ -100,7 +100,7 @@ const sr = ScrollReveal ({
 
 		},200)
 		setInterval(()=>{
-			if(counter3 == 8){
+			if(counter3 == 9){
 				clearInterval();
 			}else{
 			counter3+=1;
@@ -109,7 +109,7 @@ const sr = ScrollReveal ({
 
 		},200)
 		setInterval(()=>{
-			if(counter4 == 7){
+			if(counter4 == 8){
 				clearInterval();
 			}else{
 			counter4+=1;
@@ -118,7 +118,7 @@ const sr = ScrollReveal ({
 
 		},200)
 		setInterval(()=>{
-			if(counter5 == 6){
+			if(counter5 == 9){
 				clearInterval();
 			}else{
 			counter5+=1;
@@ -127,7 +127,7 @@ const sr = ScrollReveal ({
 
 		},200)
 		setInterval(()=>{
-			if(counter6 == 8){
+			if(counter6 == 9){
 				clearInterval();
 			}else{
 			counter6+=1;
