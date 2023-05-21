@@ -179,11 +179,14 @@ span{
 	transform: scale(1.1);
 }
 .home-img img{
-	max-width: 100%;
-	width: 540px;
-	height: auto;
-	border-radius: 50%;
-	overflow: hidden;
+    max-width: 100%;
+    width: 540px;
+    height: auto;
+    border-radius: 50%;
+    overflow: hidden;
+    /* object-fit: cover; */
+    /* object-position: 50% 50%; */
+	/* margin: -75px 0 0 -100px; */
 }
 .home-img{
 	overflow: hidden;
